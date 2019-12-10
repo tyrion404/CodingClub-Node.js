@@ -1,4 +1,4 @@
 # CodingClub-Node.js
 
 preview:
-codingclubsvit.heroku.com
+https://codinghclubsvit.herokuapp.com
